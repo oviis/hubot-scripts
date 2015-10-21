@@ -1,1 +1,1 @@
-[ "hello.coffee", "jenkins.coffee" ]
+[ "hello.coffee", "jenkins.coffee", "jenkins-notifier.coffee" ]
